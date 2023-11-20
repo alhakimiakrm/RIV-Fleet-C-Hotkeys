@@ -1,5 +1,5 @@
 ; THIS IS NOT FINISHED
-; AutoIntegrate Script for automating Tire Replacaments 
+; AutoIntegrate Script for automating Tire Replacements 
 
 #z::ExitApp ; Terminate script
 
