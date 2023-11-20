@@ -36,7 +36,7 @@ Here's how to begin using the script.
    5. Once the items have been filled out, adjust accordingly and submit the Repair Order for authorization
       1. In many cases, certain Service Center's use different pricing for their labor so make sure you go back and adjust those in reference to the prices that the work order shows.
       2. You also might want to make sure the items match the work order. Sometimes, the clips are not added as part of the repair order in which case you will simply remove them.
-      the goal of this script is to fill out the essential items and once the script stops running, you can adjust the order as needed to match the Work Order in RivOS.
+      The goal of this script is to fill out the essential items and once the script stops running, you can adjust the order as needed to match the Work Order in RivOS.
 
    6.  Lastly, you will want to remember that (WIN + Z) will stop running the script. Press this if an error has been made on your end or if the script performs poorly and causes some unintended actions.
 
