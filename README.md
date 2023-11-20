@@ -1,7 +1,7 @@
 # RIV-Fleet-C-Hotkeys
 This Repo is intended to store source code of all Text Expansions, Snippets and Hotkeys that can improve and automate time consuming tasks at the SSOC. 
 
-<h1> How to begin using PM list </h1>
+<h1> How to begin using this PM list script </h1>
 
 To use this automation there are a few things that need to be checked and considered in order to make sure that the script does not break or cause unintended actions.
 
