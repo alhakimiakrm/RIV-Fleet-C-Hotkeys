@@ -1,5 +1,5 @@
 # RIV-Fleet-C-Hotkeys
-This Repo is intended to store source code of all Text Expansions, Snippets and Hotkeys that can improve and automate time consuming tasks at the SSOC. 
+This Repo is intended to store source code as well as executable files of all Text Expansions, Snippets and Hotkeys that can improve and automate time consuming tasks at the SSOC. 
 
 <h1> How to begin using this PM list script </h1>
 
