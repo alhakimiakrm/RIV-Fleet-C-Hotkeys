@@ -26,12 +26,12 @@ Here's how to begin using the script.
       ![image](https://github.com/alhakimiakrm/RIV-Fleet-C-Hotkeys/assets/111914307/a6cc05f2-d1f1-4048-ae1f-a20155616548)
 
    3. Navigate to the empty Preventative Maintenance repair order (Again, ensuring that you are no longer impersonating the Service Center)
-      ![image](https://github.com/alhakimiakrm/RIV-Fleet-C-Hotkeys/assets/111914307/e450f23e-2f27-45e1-808c-ba0c6b2297f9)
+      
 
    4. Click on to an empty field. I typically click the White space (Black if you are using Dark Mode)
       1. By "empty" I am referring to a part of the site that is not interactive and does not trigger any action. This is to ensure that the
          script begins running at the top of the page, as it uses a precise number of 'TAB' commands to complete the automation.
-         ![Screenshot 2023-11-20 021446](https://github.com/alhakimiakrm/RIV-Fleet-C-Hotkeys/assets/111914307/da327515-8acc-45e5-9ee9-edb830d9f3ce)
+        
 
    5. Once the items have been filled out, adjust accordingly and submit the Repair Order for authorization
       1. In many cases, certain Service Center's use different pricing for their labor so make sure you go back and adjust those in reference to the prices that the work order shows.
