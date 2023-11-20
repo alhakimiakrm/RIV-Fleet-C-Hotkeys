@@ -20,9 +20,11 @@ Here's how to begin using the script.
    Note: This is assuming you have AutoHotKey installed and have downloaded the 'pm.ahk' file from the GitHub repository.
 
    1. Run AutoHotkey
-      
+      ![image](https://github.com/alhakimiakrm/RIV-Fleet-C-Hotkeys/assets/111914307/30b2c685-7a89-427d-8398-cf9c55f9b2f6)
+
    2. Navigate to where you have downloaded the script and run the executable (.exe) It should be labeled 'pm.exe' or just 'pm' with the Icon being the green AHK logo
-      
+      ![image](https://github.com/alhakimiakrm/RIV-Fleet-C-Hotkeys/assets/111914307/a6cc05f2-d1f1-4048-ae1f-a20155616548)
+
    3. Navigate to the empty Preventative Maintenance repair order (Again, ensuring that you are no longer impersonating the Service Center)
       
    4. Click on to an empty field. I typically click the White space (Black if you are using Dark Mode)
