@@ -9,7 +9,7 @@ To use this automation there are a few things that need to be checked and consid
     and Courtesy Check fil in correctly.
     1. More specifically, you need to make sure you have access to the snippet that allows for autofill of those particular items. See Ace if you need help obtaining this
        
- 2. You will need to make sure you do not currently have any other shortcuts or text expansions/snippets binded to (ALT + BACKSPACE) or (WIN + Z)
+ 2. You will need to make sure you do not currently have any other shortcuts or text expansions/snippets binded to (ALT + BACKSPACE) or (WIN + E)
     
  3. Once you have impersonated the intended Service Center, you will need to 'Return to Own Account' and search up the Repair Order again.
     1. The reason for this is because Auto Integrate, for some arbitrary reason, does not allow for Enter keys to register so this will break the script and not
@@ -38,6 +38,6 @@ Here's how to begin using the script.
       2. You also might want to make sure the items match the work order. Sometimes, the clips are not added as part of the repair order in which case you will simply remove them.
       The goal of this script is to fill out the essential items and once the script stops running, you can adjust the order as needed to match the Work Order in RivOS.
 
-   6.  Lastly, you will want to remember that (WIN + Z) will stop running the script. Press this if an error has been made on your end or if the script performs poorly and causes some unintended actions.
+   6.  Lastly, you will want to remember that (WIN + E) will stop running the script. Press this if an error has been made on your end or if the script performs poorly and causes some unintended actions.
 
 For any issues, concerns, or questions pertaining to the functionality of the script, please see Ace. 
